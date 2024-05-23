@@ -77,9 +77,6 @@ const Invioces = () => {
                   "& .MuiDataGrid-toolbarContainer .MuiButton-text": {
                     color: `${colors.grey[100]} !important`,
                   },
-                  "& .MuiCheckbox-root": {
-                    color: `${colors.greenAccent[200]} !important`
-                  }
             }}
         >
             <DataGrid 
